@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/bf16c2f4-aca7-475a-b81b-da65636a46c1/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/websocket-servertest",
+    "appService.deploySubpath": "."
+}
